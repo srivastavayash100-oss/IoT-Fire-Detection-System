@@ -14,6 +14,12 @@ An IoT-integrated system built to detect agricultural fires early and deliver em
 * **Connectivity:** GSM (SIM800L), GPS (NEO-6M), 433MHz RF
 * **Sensors:** IR Flame Sensor, MQ-2 (Smoke), DHT22 (Temperature & Humidity)
 
+### 📸 Hardware Prototypes
+<p align="center">
+  <img src="./IoT_Assembled_Sensor_Node_DHT_MQ2.png" width="45%" alt="IoT Sensor Node" />
+  <img src="./IoT_Assembled_Controller_Unit_GSM_GPS.png" width="45%" alt="IoT Controller Unit" />
+</p>
+
 ### 📂 Project Media
 * [View Full Project Report](https://github.com/srivastavayash100-oss/IoT-Fire-Detection-System/blob/main/Minor%20Report.pdf)
 * [Watch Working Video](Paste_Link_to_Video_here)
