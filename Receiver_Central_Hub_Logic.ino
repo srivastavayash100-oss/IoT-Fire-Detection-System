@@ -15,8 +15,8 @@
 // WARNING: Connect UNO TX (D7) to GSM RX (GSM) via a 10k/20k Voltage Divider!
 
 // ==== ALERT RECIPIENTS (MUST BE UPDATED) ====
-#define FARMER_PHONE "+917091260761" 
-#define FIRE_STATION_PHONE "+919336960694"
+#define FARMER_PHONE "+91xxxxxxxx" 
+#define FIRE_STATION_PHONE "+91xxxxxxxx"
 
 // ==== TIMING & FUSION THRESHOLDS ====
 #define ALERT_COOLDOWN_MS 300000UL // 5 minutes cooldown before sending a repeat SMS
