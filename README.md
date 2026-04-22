@@ -15,5 +15,5 @@ An IoT-integrated system built to detect agricultural fires early and deliver em
 * **Sensors:** IR Flame Sensor, MQ-2 (Smoke), DHT22 (Temperature & Humidity)
 
 ### 📂 Project Media
-* [View Full Project Report](Paste_Link_to_uploaded_PDF_here)
+* [View Full Project Report]([Paste_Link_to_uploaded_PDF_here](https://github.com/srivastavayash100-oss/IoT-Fire-Detection-System/blob/main/Minor%20Report.pdf))
 * [Watch Working Video](Paste_Link_to_Video_here)
