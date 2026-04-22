@@ -22,4 +22,4 @@ An IoT-integrated system built to detect agricultural fires early and deliver em
 
 ### 📂 Project Media
 * [View Full Project Report](https://github.com/srivastavayash100-oss/IoT-Fire-Detection-System/blob/main/Minor%20Report.pdf)
-* [Watch Working Video](Paste_Link_to_Video_here)
+* [Watch Working Video](https://youtu.be/1Rwc19TTkt8)
