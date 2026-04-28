@@ -1,5 +1,5 @@
 # IoT-Based Farmer Field Fire Detection System
-**[3rd-Year Academic Project | Group of 2]**
+**[3rd-Year Minor Project 1 | Group of 2]**
 
 ### 📌 Project Overview
 An IoT-integrated system built to detect agricultural fires early and deliver emergency alerts without relying on internet connectivity.
